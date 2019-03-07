@@ -12,3 +12,4 @@ yarn init -y // Instalar no diretório
 - docker run --name mongonode -p 27017:27017 -d -t mongo
 
 - yarn add mongoose
+- yarn add bcryptjs
