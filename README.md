@@ -14,3 +14,4 @@ yarn init -y // Instalar no diretório
 - yarn add mongoose
 - yarn add bcryptjs
 - yarn add jsonwebtoken
+- yarn add require-dir
