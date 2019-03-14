@@ -16,3 +16,4 @@ yarn init -y // Instalar no diretório
 - yarn add jsonwebtoken
 - yarn add require-dir
 - yarn add mongoose-paginate
+- yarn add nodemailer
