@@ -15,3 +15,4 @@ yarn init -y // Instalar no diretório
 - yarn add bcryptjs
 - yarn add jsonwebtoken
 - yarn add require-dir
+- yarn add mongoose-paginate
