@@ -18,3 +18,9 @@ yarn init -y // Instalar no diretório
 - yarn add mongoose-paginate
 - yarn add nodemailer
 - yarn add nodemailer-express-handlebars express-handlebars
+
+// Instalar redis no docker
+
+- docker run --name noderedis -p 6379:6379 -d -t redis:alpine
+
+- yarn add kue
