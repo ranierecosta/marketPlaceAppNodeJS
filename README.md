@@ -17,3 +17,4 @@ yarn init -y // Instalar no diretório
 - yarn add require-dir
 - yarn add mongoose-paginate
 - yarn add nodemailer
+- yarn add nodemailer-express-handlebars express-handlebars
