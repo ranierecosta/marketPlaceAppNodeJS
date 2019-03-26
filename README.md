@@ -29,3 +29,4 @@ yarn init -y // Instalar no diretório
 - yarn add youch
 - yarn add express-async-handler
 - yarn add @sentry/node
+- yarn add dotenv
