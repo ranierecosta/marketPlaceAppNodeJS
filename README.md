@@ -24,3 +24,5 @@ yarn init -y // Instalar no diretório
 - docker run --name noderedis -p 6379:6379 -d -t redis:alpine
 
 - yarn add kue
+- yarn add joi
+- yarn add express-validation
