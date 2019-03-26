@@ -28,3 +28,4 @@ yarn init -y // Instalar no diretório
 - yarn add express-validation
 - yarn add youch
 - yarn add express-async-handler
+- yarn add @sentry/node

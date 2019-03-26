@@ -17,6 +17,7 @@
     "sequelize-cli": "^5.4.0"
   },
   "dependencies": {
+    "@sentry/node": "^4.6.5",
     "bcryptjs": "^2.4.3",
     "express": "^4.16.4",
     "express-async-handler": "^1.1.4",
