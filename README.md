@@ -26,3 +26,5 @@ yarn init -y // Instalar no diretório
 - yarn add kue
 - yarn add joi
 - yarn add express-validation
+- yarn add youch
+- yarn add express-async-handler
